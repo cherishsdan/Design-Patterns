@@ -1,9 +1,9 @@
 # Design-Patterns
 
-使用javascript实现的设计模式
+并不是严格意义上的设计模式，参考Pro Javascript Development中的分类 ，使用javascript实现
 
-- 单例模式
-- 迭代器模式
-- 策略模式
-- 代理模式
-- 观察者模式
+- 设计模式：创建型（create）
+- 设计模式：结构型（structure）
+- 设计模式：架构型（architecture）
+- 设计模式：行为型（behavior）
+
